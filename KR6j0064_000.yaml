@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0064/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蘇悉地羯羅供養法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0894b.xml
+    old_id: T18n0894b
+hash: sha256:a9ae74a9ced46cdee933967f965aac900564bc3c6aad854773a5735d8fa0d32e

@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR6j0064/v1
+canonical_location: https://kanripo.org/bkk/KR6j0064/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 蘇悉地羯羅供養法
+  identifiers:
+    alt_id:
+    - T18n0894b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0894b.xml
+    old_id: T18n0894b
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: ？
+  label: ？
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0064_000.yaml, hash: 'sha256:a9ae74a9ced46cdee933967f965aac900564bc3c6aad854773a5735d8fa0d32e'}
+  - {seq: 1, filename: KR6j0064_001.yaml, hash: 'sha256:6a35ceadd727a0958eda17857c9474870d4965b2dc73d2181531b245296d788e'}
+  - {seq: 2, filename: KR6j0064_002.yaml, hash: 'sha256:0754e23269c5261d0197340d54cf7971ebfb037eb54cc714614fe4ee53181abf'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0064_001.markers.yaml, hash: 'sha256:e73814a9cb39e030097d0cdef74f121e9819159fb9479723d51812c64f23de20'}
+  - {seq: 2, role: markers, filename: assets/KR6j0064_002.markers.yaml, hash: 'sha256:d01d37d3da709672fdcabb1a0ba1856f33bea79aceb9a90eb904c0932e098cc3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0064_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7501
+  label: 蘇悉地羯羅供養法卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0064_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5498
+  label: 蘇悉地羯羅供養法卷第二
+  type: juan
+  level: 1
+hash: sha256:48abc67d20d4769888d90a0f46ffc34c446b925cedb11f1259929a0232a4c519
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
